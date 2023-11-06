@@ -1,2 +1,6 @@
-# swiftui_complex_macro
-Demo project with swift macros
+# Swift complex Macroses
+Demo project with swift macros: 
+
+- SwiftRetrofit
+- SwiftView
+- ListScreen/ListItem
